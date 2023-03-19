@@ -1,0 +1,22 @@
+.hero {
+    height: 500px;
+    /* background-size: cover; */
+    background-position: center;
+    background-color: white;
+    align-items: center;
+    position:relative;
+    z-index: 0;
+    padding: 100px;
+  }
+  
+  .hero h1, .hero h2 {
+    color: black;
+  }
+  
+  .hero h1 {
+    font-size: 100px;
+    padding-top: 50px;
+    margin-top: 0;
+    align-items: left;
+  }
+  

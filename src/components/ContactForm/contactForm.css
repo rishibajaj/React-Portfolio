@@ -1,0 +1,13 @@
+.contactForm h4 {
+    font-size: 3rem;
+    padding-bottom: 25px;
+    align-self: start;
+}
+
+.textField {
+    width: 100%;
+    margin-bottom: 10px !important;
+    align-items: left;
+    align-self: start;
+}
+

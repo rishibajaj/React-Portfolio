@@ -1,0 +1,14 @@
+.infoItem h3 {
+    font-size: 5rem;
+}
+
+.infoItem p {
+    font-size: 1.4rem;
+}
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

@@ -1,0 +1,62 @@
+[
+    {
+        "key": "project1",
+        "title": "Team Profile Generator",
+        "image": "/screenshots/teamProfileGenerator.png",
+        "intro": "A Node.js command-line application to generate an HTML file",
+        "navLink": "/Team-Profile-Generator",
+        "description": "This application prompts questions in the command line to take in information about employees on a software engineering team and generates an HTML file, creating a profile for each employee so that the manager can quickly access information about them.",
+        "deployedLink": "https://rishibajaj.github.io/TeamProfile-Generator/",
+        "gitHubLink": "https://github.com/rishibajaj/TeamProfile-Generator"
+    },
+    {
+        "key": "project2",
+        "title": "Stablecoin Index",
+        "image": "/screenshots/stablecoinIndex.png",
+        "intro": "A financial index that could be sold to hedge funds for passive income",
+        "navLink": "/Stablecoin-Index",
+        "description": "This group project was initially envisioned to create a hub page of financial indices that could be sold to hedge funds for passive income. Due to time constraints, the scope was slashed to a single index as a proof of concept. The stablecoin index is important as it illustrates the paradigm shift from speculative asset to mainstream adoption as a digital currency. It is relevant as more countries, like the Central African Republic are dipping their toes into digital currencies as a last ditch stand of failed monetary policy.",
+        "deployedLink": "https://rishibajaj.github.io/Financial-Indices/",
+        "gitHubLink": "https://github.com/rishibajaj/Financial-Indices"
+    },
+    {
+        "key": "project3",
+        "title": "Weather Dashboard",
+        "image": "/screenshots/weatherDashboard.png",
+        "intro": "A weather dashboard displaying the 5 day forecast for multiple cities of the user's choice",
+        "navLink": "/Weather-Dashboard",
+        "description": "This application uses the geocoding and 5 day weather forecast apis from OpenWeather to provide a five day weather forecast for the city of the user's choice. The app uses local storage to store the last five cities searched for so the user can easily revisit the forecast when they reopen or refresh the page.",
+        "deployedLink": "https://rishibajaj.github.io/WeatherDashboard/",
+        "gitHubLink": "https://github.com/rishibajaj/WeatherDashboard"
+    },
+    {
+        "key": "project4",
+        "title": "Day Planner",
+        "image": "/screenshots/workdayScheduler.png",
+        "intro": "An app to help plan a day's workload with timeblocks for each hour of the working day",
+        "navLink": "/Workday-Scheduler",
+        "description": "This is a simple application to help plan a day's workload. The working day (9am-5pm) is broken into hourly slots that have been created dynamically using jquery. You can enter tasks into the timeblock for the hour when you want to complete that task. Click Save and the task will persist when the page is refreshed or closed and reopened.",
+        "deployedLink": "https://rishibajaj.github.io/DayPlanner/",
+        "gitHubLink": "https://github.com/rishibajaj/DayPlanner"
+    },
+    {
+        "key": "project5",
+        "title": "Coding Quiz",
+        "image": "/screenshots/codingQuiz.png",
+        "intro": "A quiz to test bootcamp students on their coding knowledge",
+        "navLink": "/Coding-Quiz",
+        "description": "This timed multiple choice quiz is designed to test the knowledge of bootcamp students. The app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript, to move through the questions and display a table of the three highest scores at the end. For each incorrect quess, 10 seconds is taken off the timer and the quiz won't move on until the question is answered correctly.",
+        "deployedLink": "https://rishibajaj.github.io/CodingQuiz/",
+        "gitHubLink": "https://github.com/rishibajaj/CodingQuiz"
+    },
+    {
+        "key": "project6",
+        "title": "Password Generator",
+        "image": "/screenshots/passwordGenerator.png",
+        "intro": "An application to randomly generate a password based on user selected criteria",
+        "navLink": "/Password-Generator",
+        "description": "This application randomly generates a password based on a user's answers to prompts about the required length of the password and whether ot not it should contain special characters, numbers, lower case letters or upper case letters.",
+        "deployedLink": "https://rishibajaj.github.io/PasswordGenerator/",
+        "gitHubLink": "https://github.com/rishibajaj/PasswordGenerator"
+    }
+]

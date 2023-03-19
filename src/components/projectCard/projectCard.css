@@ -1,0 +1,24 @@
+.projectImage {
+    width: 100%;
+    height: 200px;
+    border-bottom: 1px dotted gray;
+}
+
+.cardBox {
+    padding: 10px 30px;
+    background-color: white;
+    height: 200px;
+}
+
+.cardBox h3 {
+    color: gray;
+}
+
+.cardBox p {
+    color: #273746;
+}
+
+.projectLink:hover {
+    text-decoration: underline;
+}
+
