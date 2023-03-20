@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d528e7e5.css",
+    "main.js": "/React-Portfolio/static/js/main.2a7a0fe8.js",
+    "static/media/profilePic.jpeg": "/React-Portfolio/static/media/profilePic.633af02adc7dc10c8dc2.jpeg",
+    "static/media/rishibajajCV.pdf": "/React-Portfolio/static/media/rishibajajCV.ad3287065230d2a8820a.pdf",
+    "index.html": "/React-Portfolio/index.html",
+    "main.d528e7e5.css.map": "/React-Portfolio/static/css/main.d528e7e5.css.map",
+    "main.2a7a0fe8.js.map": "/React-Portfolio/static/js/main.2a7a0fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d528e7e5.css",
+    "static/js/main.2a7a0fe8.js"
+  ]
+}
