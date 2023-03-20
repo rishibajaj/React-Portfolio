@@ -3,7 +3,8 @@ A portfolio of my front-end web projects, created with React
 
 ## Description
 
-This application has been built with React to showcase the skills I have learnt during the bootcamp. It contains a header section, including navbar, that renders across the whole site, an About Me section, Project Gallery, Contact section and link to my CV.
+This application has been built with React. 
+The Website contains header & navbar, that renders across the whole site, an About Me section, Project Gallery, Contact section and link to my CV.
 
 Packages/libraries used in the application build include:
 - react-router-dom
