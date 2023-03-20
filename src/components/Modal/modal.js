@@ -33,7 +33,7 @@ const SubmitModal = () => {
             >
                 <Box sx={style}>
                     <h5 id="modal-modal-title">
-                        Thank you for your message
+                        Thank-you for your message.
                     </h5>
                     <p id="modal-modal-description">
                         I'll be in touch soon!

@@ -20,6 +20,6 @@ Browse through the website to learn more about my experience as a front-end web 
 
 ## License
 
-N/A
+MIT
 
 
